@@ -1,0 +1,11 @@
+*.egg
+*.egg-info
+*.pyc
+
+/.coverage
+/.eggs
+/.tox
+/build
+/coverage.xml
+/dist
+/htmlcov
